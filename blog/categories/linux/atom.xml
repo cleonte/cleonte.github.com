@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: linux | My Octopress Blog]]></title>
+  <link href="http://cleonte.github.com/blog/categories/linux/atom.xml" rel="self"/>
+  <link href="http://cleonte.github.com/"/>
+  <updated>2013-01-07T20:37:42+02:00</updated>
+  <id>http://cleonte.github.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[CentOS 6.1]]></title>
+    <link href="http://cleonte.github.com/blog/2011/12/10/centos-6-dot-1/"/>
+    <updated>2011-12-10T08:01:00+02:00</updated>
+    <id>http://cleonte.github.com/blog/2011/12/10/centos-6-dot-1</id>
+    <content type="html"><![CDATA[<p>A new  CentOS version is here <a href="http://lists.centos.org/pipermail/centos-announce/2011-December/018312.html">CentOS</a></p>
+]]></content>
+  </entry>
+  
+</feed>

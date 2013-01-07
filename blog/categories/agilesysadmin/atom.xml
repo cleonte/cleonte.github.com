@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: agilesysadmin | My Octopress Blog]]></title>
+  <link href="http://cleonte.github.com/blog/categories/agilesysadmin/atom.xml" rel="self"/>
+  <link href="http://cleonte.github.com/"/>
+  <updated>2013-01-07T20:37:42+02:00</updated>
+  <id>http://cleonte.github.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Ec2 outage lessons]]></title>
+    <link href="http://cleonte.github.com/ec2-outage-lessons/"/>
+    <updated>2011-04-22T00:00:00+03:00</updated>
+    <id>http://cleonte.github.com/ec2-outage-lessons</id>
+    <content type="html"><![CDATA[<p><a href="http://agilesysadmin.net/ec2-outage-lessons">http://agilesysadmin.net/ec2-outage-lessons</a><br/>
+by <a href="http://agilesysadmin.net/">http://agilesysadmin.net/</a></p>
+
+<h3>Bullet points from the article:</h3>
+
+<p>-Expect, and design for downtime<br/>
+-Have a DR plan, and practice it until it's second nature<br/>
+-Infrastructure as code<br/>
+-The cloud is still great</p>
+]]></content>
+  </entry>
+  
+</feed>

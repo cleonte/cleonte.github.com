@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: infratructure | My Octopress Blog]]></title>
+  <link href="http://cleonte.github.com/blog/categories/infratructure/atom.xml" rel="self"/>
+  <link href="http://cleonte.github.com/"/>
+  <updated>2013-01-07T20:37:42+02:00</updated>
+  <id>http://cleonte.github.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[7 Mantras of Successful Infrastructure]]></title>
+    <link href="http://cleonte.github.com/7-mantras-of-successful-infrastructure/"/>
+    <updated>2011-04-21T00:00:00+03:00</updated>
+    <id>http://cleonte.github.com/7-mantras-of-successful-infrastructure</id>
+    <content type="html"><![CDATA[<p><div><script src='https://gist.github.com/934898.js'></script>
+<noscript><pre><code>* The network is reliable.
+* Latency is zero.
+* Bandwidth is infinite.
+* The network is secure.
+* Topology doesn't change.
+* There is one administrator.
+* Transport cost is zero.
+* The network is homogeneous.</code></pre></noscript></div>
+ by @roidrage (Mathias Meyer) on twitter</p>
+]]></content>
+  </entry>
+  
+</feed>

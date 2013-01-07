@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://cleonte.github.com/atom.xml" rel="self"/>
+  <link href="http://cleonte.github.com/"/>
+  <updated>2013-01-07T20:37:42+02:00</updated>
+  <id>http://cleonte.github.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[CentOS 6.1]]></title>
+    <link href="http://cleonte.github.com/blog/2011/12/10/centos-6-dot-1/"/>
+    <updated>2011-12-10T08:01:00+02:00</updated>
+    <id>http://cleonte.github.com/blog/2011/12/10/centos-6-dot-1</id>
+    <content type="html"><![CDATA[<p>A new  CentOS version is here <a href="http://lists.centos.org/pipermail/centos-announce/2011-December/018312.html">CentOS</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ops Related]]></title>
+    <link href="http://cleonte.github.com/blog/2011/10/19/ops-related/"/>
+    <updated>2011-10-19T22:39:00+03:00</updated>
+    <id>http://cleonte.github.com/blog/2011/10/19/ops-related</id>
+    <content type="html"><![CDATA[<p>You should read this two posts:  <a href="http://blog.lusis.org/blog/2011/10/18/rollbacks-and-other-deployment-myths/">part 1</a> and <a href="http://blog.lusis.org/blog/2011/10/18/deploy-all-the-things/">part 2</a><br/>
+found on Twitter by @lusis</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Who Are You]]></title>
+    <link href="http://cleonte.github.com/blog/2011/10/19/who-are-you/"/>
+    <updated>2011-10-19T22:36:00+03:00</updated>
+    <id>http://cleonte.github.com/blog/2011/10/19/who-are-you</id>
+    <content type="html"><![CDATA[<p>A very nice <a href="http://dilbert.com/blog/entry/who_are_you/">post</a> by Scott Adams creator of <a href="http://dilbert.com">dilbert</a><br/>
+found on HackerNews</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Dell and London Slough]]></title>
+    <link href="http://cleonte.github.com/blog/2011/10/13/dell-and-london-slough/"/>
+    <updated>2011-10-13T22:20:00+03:00</updated>
+    <id>http://cleonte.github.com/blog/2011/10/13/dell-and-london-slough</id>
+    <content type="html"><![CDATA[<p>I&#8217;ve been to Sough,  it&#8217;s nice and you can feel the smell of Mars chocolate in the evening, maybe Dell picked that place to build <a href="http://www.datacenterknowledge.com/archives/2011/10/12/dell-opens-new-data-center-near-london/">this</a>, nee I&#8217;m keeding Slough is a big techological park near London, you can find Equnix, RIM, Rackspace and Mars</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Lsof]]></title>
+    <link href="http://cleonte.github.com/blog/2011/10/11/lsof/"/>
+    <updated>2011-10-11T22:16:00+03:00</updated>
+    <id>http://cleonte.github.com/blog/2011/10/11/lsof</id>
+    <content type="html"><![CDATA[<p><a href="http://danielmiessler.com/study/lsof/">lsof 101</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Nobody Cares]]></title>
+    <link href="http://cleonte.github.com/blog/2011/10/11/nobody-cares/"/>
+    <updated>2011-10-11T21:36:00+03:00</updated>
+    <id>http://cleonte.github.com/blog/2011/10/11/nobody-cares</id>
+    <content type="html"><![CDATA[<p><a href="http://bhorowitz.com/2011/10/08/nobody-cares/">Nobody Cares</a> found on Twitter</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Developers and Operations]]></title>
+    <link href="http://cleonte.github.com/blog/2011/10/09/developers-and-operations/"/>
+    <updated>2011-10-09T20:40:00+03:00</updated>
+    <id>http://cleonte.github.com/blog/2011/10/09/developers-and-operations</id>
+    <content type="html"><![CDATA[<p>An intrestin <a href="http://blog.recursivity.com/post/10842820535/developers-must-feel-the-pain-of-operations">link</a> @roidrage  twitter stream</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[node.js]]></title>
+    <link href="http://cleonte.github.com/blog/2011/10/05/node-dot-js/"/>
+    <updated>2011-10-05T07:47:00+03:00</updated>
+    <id>http://cleonte.github.com/blog/2011/10/05/node-dot-js</id>
+    <content type="html"><![CDATA[<p><a href="http://teddziuba.com/2011/10/node-js-is-cancer.html">Ted Dziuba</a> vs <a href="http://blog.brianbeck.com/post/node-js-cures-cancer">Brian Beck</a> on node.js</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Showdown]]></title>
+    <link href="http://cleonte.github.com/blog/2011/10/03/showdown/"/>
+    <updated>2011-10-03T07:29:00+03:00</updated>
+    <id>http://cleonte.github.com/blog/2011/10/03/showdown</id>
+    <content type="html"><![CDATA[<p>A markdown implementation in javascript <a href="http://softwaremaniacs.org/playground/showdown-highlight/">showdown highlight</a>:</p>
+
+<p>found on HackerNews</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Brutal Dishonesty]]></title>
+    <link href="http://cleonte.github.com/blog/2011/10/02/brutal-dishonesty/"/>
+    <updated>2011-10-02T20:54:00+03:00</updated>
+    <id>http://cleonte.github.com/blog/2011/10/02/brutal-dishonesty</id>
+    <content type="html"><![CDATA[<p>Brutal dihonesty <a href="http://uncrunched.com/2011/10/01/brutal-dishonesty/">http://uncrunched.com/2011/10/01/brutal-dishonesty/</a></p>
+
+<p>found on Twitter (@jtimberman)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Web Operations 101 For Developers]]></title>
+    <link href="http://cleonte.github.com/blog/2011/10/02/web-operations-101/"/>
+    <updated>2011-10-02T19:43:00+03:00</updated>
+    <id>http://cleonte.github.com/blog/2011/10/02/web-operations-101</id>
+    <content type="html"><![CDATA[<p>You need to read this:<br/>
+<a href="http://www.paperplanes.de/2011/7/25/web_operations_101_for_developers.html">web operations 101 for developers</a><br/>
+by Mathias Meyer</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Software]]></title>
+    <link href="http://cleonte.github.com/blog/2011/10/01/software/"/>
+    <updated>2011-10-01T09:41:00+03:00</updated>
+    <id>http://cleonte.github.com/blog/2011/10/01/software</id>
+    <content type="html"><![CDATA[<p>Check this out: <a href="https://plus.google.com/115094562986465477143/posts/Di6RwCNKCrf">https://plus.google.com/115094562986465477143/posts/Di6RwCNKCrf</a><br/>
+by Ryan Dahl</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Time]]></title>
+    <link href="http://cleonte.github.com/blog/2011/09/30/time/"/>
+    <updated>2011-09-30T22:39:00+03:00</updated>
+    <id>http://cleonte.github.com/blog/2011/09/30/time</id>
+    <content type="html"><![CDATA[<p>Do you have the time? if not, check this out:<br/>
+<a href="http://www.netcordia.com/community/blogs/terrys_blog/archive/2008/01/07/ntp-accuracy.aspx">http://www.netcordia.com/community/blogs/terrys_blog/archive/2008/01/07/ntp-accuracy.aspx</a><br/>
+NTP Accuracy @ Applied Infrastructure</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[First on GitHub]]></title>
+    <link href="http://cleonte.github.com/blog/2011/09/30/first/"/>
+    <updated>2011-09-30T12:57:00+03:00</updated>
+    <id>http://cleonte.github.com/blog/2011/09/30/first</id>
+    <content type="html"><![CDATA[<p>Actually, seccond, the first one was on posterous, now trying github with octopress <a href="www.octopress.org">www.octopress.org</a>, inspired by <a href="http://jtimberman.github.com/">http://jtimberman.github.com/</a>, maybe this one will last longer ;)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Training organizational resilience in escalating situations]]></title>
+    <link href="http://cleonte.github.com/training-organizational-resilience-in-escalat"/>
+    <updated>2011-05-10T00:00:00+03:00</updated>
+    <id>http://cleonte.github.com/training-organizational-resilience-in-escalat</id>
+    <content type="html"><![CDATA[<p><a href="http://www.kitchensoap.com/2011/05/10/training-organizational-resilience-in-e">http://www.kitchensoap.com/2011/05/10/training-organizational-resilience-in-escalating-situations</a><br/>
+By allspaw</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Unix orchestration]]></title>
+    <link href="http://cleonte.github.com/unix-orchestration/"/>
+    <updated>2011-05-03T00:00:00+03:00</updated>
+    <id>http://cleonte.github.com/unix-orchestration</id>
+    <content type="html"><![CDATA[<p><a href="http://www.infoq.com/news/2011/05/unix-orchestration">http://www.infoq.com/news/2011/05/unix-orchestration</a> <br/>
+on InfoQ</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Managing IT , people]]></title>
+    <link href="http://cleonte.github.com/managing-it-people/"/>
+    <updated>2011-04-28T00:00:00+03:00</updated>
+    <id>http://cleonte.github.com/managing-it-people</id>
+    <content type="html"><![CDATA[<p><a href="http://www.storagebod.com/wordpress/?p=575">http://www.storagebod.com/wordpress/?p=575</a><br/>
+by Martin Glassborow. found on Greg Ferror&#8217;s Twitter (@etherealmind)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ec2 lessons learned @ Evite]]></title>
+    <link href="http://cleonte.github.com/ec2-lessons-learned-evite/"/>
+    <updated>2011-04-27T00:00:00+03:00</updated>
+    <id>http://cleonte.github.com/ec2-lessons-learned-evite</id>
+    <content type="html"><![CDATA[<p><a href="http://agiletesting.blogspot.com/2011/04/lessons-learned-from-deploying.html">http://agiletesting.blogspot.com/2011/04/lessons-learned-from-deploying.html</a><br/>
+By Grig Ghoeorgiu</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[doubt]]></title>
+    <link href="http://cleonte.github.com/doubt/"/>
+    <updated>2011-04-26T00:00:00+03:00</updated>
+    <id>http://cleonte.github.com/doubt</id>
+    <content type="html"><![CDATA[<p><a href="http://gregferro.com/the-power-of-doubt">http://gregferro.com/the-power-of-doubt</a></p>
+
+<p>by Greg Ferro</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[json ip]]></title>
+    <link href="http://cleonte.github.com/json-ip/"/>
+    <updated>2011-04-25T00:00:00+03:00</updated>
+    <id>http://cleonte.github.com/json-ip</id>
+    <content type="html"><![CDATA[<p><a href="http://jsonip.com">http://jsonip.com</a><br/>
+returns your ip in json format</p>
+]]></content>
+  </entry>
+  
+</feed>

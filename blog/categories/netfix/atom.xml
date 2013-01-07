@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: netfix | My Octopress Blog]]></title>
+  <link href="http://cleonte.github.com/blog/categories/netfix/atom.xml" rel="self"/>
+  <link href="http://cleonte.github.com/"/>
+  <updated>2013-01-07T20:37:42+02:00</updated>
+  <id>http://cleonte.github.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[netfix and the cloud]]></title>
+    <link href="http://cleonte.github.com/netfix-and-the-cloud/"/>
+    <updated>2011-04-23T00:00:00+03:00</updated>
+    <id>http://cleonte.github.com/netfix-and-the-cloud</id>
+    <content type="html"><![CDATA[<p>Found on hackernews</p>
+
+<div style="width:425px" id="__ss_7652318"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/adrianco/netflix-in-the-cloud-2011" title="Netflix in the cloud 2011" target="_blank">Netflix in the cloud 2011</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/7652318" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> <div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/adrianco" target="_blank">Adrian Cockcroft</a> </div> </div>
+
+
+<p>by Adrian Cockcroft</p>
+]]></content>
+  </entry>
+  
+</feed>
