@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: monitoring | My Octopress Blog]]></title>
+  <title><![CDATA[Category: monitoring | Cleonte's github blog]]></title>
   <link href="http://cleonte.github.com/blog/categories/monitoring/atom.xml" rel="self"/>
   <link href="http://cleonte.github.com/"/>
-  <updated>2013-01-07T20:42:27+02:00</updated>
+  <updated>2013-01-07T20:54:59+02:00</updated>
   <id>http://cleonte.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Cristian Leonte]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
