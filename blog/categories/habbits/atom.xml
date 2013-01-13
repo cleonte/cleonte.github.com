@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Habbits | Cleonte's github blog]]></title>
+  <link href="http://cleonte.github.com/blog/categories/habbits/atom.xml" rel="self"/>
+  <link href="http://cleonte.github.com/"/>
+  <updated>2013-01-13T21:42:14+02:00</updated>
+  <id>http://cleonte.github.com/</id>
+  <author>
+    <name><![CDATA[Cristian Leonte]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Power of habbit]]></title>
+    <link href="http://cleonte.github.com/blog/2013/01/13/the-power-of-habbit/"/>
+    <updated>2013-01-13T21:29:00+02:00</updated>
+    <id>http://cleonte.github.com/blog/2013/01/13/the-power-of-habbit</id>
+    <content type="html"><![CDATA[<p>I'm reading <a href="http://www.amazon.com/Power-Habit-What-Life-Business/dp/1400069289">The Power of Habbit</a> , go ahead, find it and read it, you
+might find out why you spend so much in front of the computer, or why
+you always end up on facebook on twitter</p>
+]]></content>
+  </entry>
+  
+</feed>
